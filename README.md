@@ -4,6 +4,9 @@
 
 Jacman is a fresh looking and responsive theme for [Hexo](http://hexo.io) with more features and some build-in Chinese service based on [Pacman](https://github.com/A-limon/pacman).  
 
+$\widetilde{x}=e^{-\widetilde{K}}$
+
+
 
 ![chuwei](https://github.com/zhouchw5/zhouchuwei.github.io/blob/master/Chuwei_zhou.jpg)
 
